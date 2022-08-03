@@ -1,0 +1,3 @@
+Username: server_admin
+Password: QRY2MYULDO3pGAfu
+IP Adress: 186.80.28.27/32
